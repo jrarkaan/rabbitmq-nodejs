@@ -1,3 +1,5 @@
+// @basic rabbitmq concept
+// @date 12/07/2022 20:05
 const amqp = require('amqplib')     // Import library amqp
 
 amqp.connect('amqp://localhost')
